@@ -5,7 +5,7 @@ title: Cesare Maio
 
 # 👋 Hi, I'm Cesare Maio
 
-*Physicist turned AI Engineer | Passionate about complex systems, machine learning, and building intelligent systems that solve real-world problems*
+Physicist and AI Engineer | Passionate about complex systems, machine learning, and building intelligent systems that solve real-world problems*
 
 ---
 
