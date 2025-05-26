@@ -3,9 +3,9 @@ layout: default
 title: Cesare Maio
 ---
 
-# 👋 Hi, I'm Cesare Maio
+# 👋 Hi, I'm Cesare
 
-Physicist and AI Engineer | Passionate about complex systems, machine learning, and building intelligent systems that solve real-world problems*
+Physicist and AI Engineer | Passionate about complex systems, machine learning, and building intelligent systems that solve real-world problems
 
 ---
 
@@ -26,7 +26,8 @@ I enjoy building elegant, efficient, and well-documented AI systems that bridge 
 
 **Languages**: Python, C++, Bash  
 **Data & ML**: PyTorch, Pandas, NumPy, OpenCV, Plotly, Matplotlib, Seaborn  
-**Back-end**: FastAPI, REST APIs, DynamoDB, PostgreSQL, MongoDB  
+**Back-end**: FastAPI, REST APIs
+**Database**: DynamoDB, PostgreSQL, MongoDB
 **Cloud**: AWS Bedrock, Vector DB (Qdrant)  
 **Tools**: Git, GitHub, Jupyter, LaTeX, WSL, Ubuntu, Windows
 
@@ -36,8 +37,7 @@ I enjoy building elegant, efficient, and well-documented AI systems that bridge 
 
 - 🎓 MSc in Physics of Complex Systems (110/110L) – UniTO
 - 🔬 Master’s research on Multitask Learning – KU Leuven
-- 💼 Industry projects on LLMs and production-ready ML tools – Italdesign
-- 📦 Built async ingestion from Confluence to Qdrant
+- 💼 Industry projects on LLMs and production-ready ML tools – @Italdesign
 
 ---
 
@@ -48,9 +48,10 @@ I enjoy building elegant, efficient, and well-documented AI systems that bridge 
 
 ---
 
-## 📫 Get in Touch
+## 📫 Let's connect
 
 - ✉️ [cesare.maio98@gmail.com](mailto:cesare.maio98@gmail.com)
 - 🔗 [GitHub Profile](https://github.com/CesareMaio)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cesare-maio)
 
 ---
