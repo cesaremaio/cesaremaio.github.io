@@ -51,7 +51,7 @@ I enjoy building elegant, efficient, and well-documented AI systems that bridge 
 ## 📫 Let's connect
 
 - ✉️ [cesare.maio98@gmail.com](mailto:cesare.maio98@gmail.com)
-- 🔗 [GitHub Profile](https://github.com/CesareMaio)
+- 🔗 [GitHub](https://github.com/CesareMaio)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cesare-maio)
 
 ---
